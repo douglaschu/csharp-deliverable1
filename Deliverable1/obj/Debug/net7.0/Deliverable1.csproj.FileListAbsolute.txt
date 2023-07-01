@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/bin/Debug/net7.0/Deliverable1
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/bin/Debug/net7.0/Deliverable1.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/bin/Debug/net7.0/Deliverable1.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/bin/Debug/net7.0/Deliverable1.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/bin/Debug/net7.0/Deliverable1.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/refint/Deliverable1.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/Deliverable1.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/unit1/deliverable1/Deliverable1/Deliverable1/obj/Debug/net7.0/ref/Deliverable1.dll
